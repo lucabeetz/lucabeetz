@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucabeetz
-- 👀 I’m interested in Machine Learning and physics
-- 🌱 I’m currently tinkering with different things
+- 👀 I’m interested in ML, physics and new things
+- 🌱 Currently working on [Dot](new.computer)
 
 <!---
 lucabeetz/lucabeetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
